@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+int main()
+
+{
+
+	const char napis[] = "Pi = 3.1415926535\n";
+	const char Przedmiot[] = "Programowanie\n";
+	sizeof(int);
+	sizeof(nazwa)
+	sizeof(nazwa)
+	printf("%s\n", napis);
+	printf("%s\n", Przedmiot);
+	printf("Int posiada %s bitow\nprintf("Int posiada %s bitow\n", sizeof (int);
+", sizeof (int);
